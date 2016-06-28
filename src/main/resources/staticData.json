@@ -1,0 +1,6 @@
+{
+  "MajorList" : ["","信号","机电","线路","车辆"],
+  "CityList" : ["","bj"],
+  "LineList" : ["","7","14"],
+  "SystemTypeList" : ["",""]
+}
